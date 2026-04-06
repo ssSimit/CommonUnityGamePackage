@@ -1,0 +1,13 @@
+{
+  "name": "com.simit.framework",
+  "version": "1.0.0",
+  "displayName": "Y8 Game Framework",
+  "description": "Reusable systems for Y8 games",
+  "unity": "6000.3",
+  "author": {
+    "name": "Simit Rai"
+  },
+  "dependencies": {
+  "com.unity.textmeshpro": "3.0.6"
+}
+}
